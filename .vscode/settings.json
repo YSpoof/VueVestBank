@@ -1,0 +1,22 @@
+{
+  "github.copilot.chat.codeGeneration.instructions": [
+    {
+      "file": "./.vscode/daisyui.md"
+    },
+    {
+      "text": "Don't import from utils or server/utils folder, nuxt already does it."
+    },
+    {
+      "text": "When using icons, use the <Icon> component, it accepts a name like 'mdi:home' and size like '24'."
+    },
+    {
+      "text": "Always use TypeScript."
+    },
+    {
+      "text": "When building UI, use daisyUi."
+    }
+  ],
+  "files.associations": {
+    "*.css": "tailwindcss"
+  }
+}
