@@ -1,1 +1,1 @@
-<template>DASHBOARD SETTINGS</template>
+<template>SETTINGS</template>

@@ -5,7 +5,7 @@ const formState = reactive({
 });
 
 async function onSubmit() {
-  console.log(event.data);
+  //
 }
 </script>
-<template></template>
+<template>LOGIN</template>

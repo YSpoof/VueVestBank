@@ -1,1 +1,1 @@
-<template>DASHBOARD HOME</template>
+<template>DASHBOARD</template>
